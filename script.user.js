@@ -6,7 +6,7 @@
 // @author       Mikhail Teslov
 // @match        *ikariam.gameforge.com/*
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/Teslov-Mikhail/IkariamNotifier/master/script.js
+// @downloadURL https://raw.githubusercontent.com/Teslov-Mikhail/IkariamNotifier/master/script.user.js
 // ==/UserScript==
 
 (function() {
