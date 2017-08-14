@@ -4,9 +4,9 @@
 // @version      0.1
 // @description  Pretty simple and straightforward.
 // @author       Mikhail Teslov
-// @match        *ikariam.gameforge.com/*
+// @match        *.ikariam.gameforge.com/*
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/Teslov-Mikhail/IkariamNotifier/master/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/Teslov-Mikhail/IkariamNotifier/master/script.user.js
 // ==/UserScript==
 
 (function() {
