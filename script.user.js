@@ -17,7 +17,7 @@
     var notificationOptions = {
       body: "Twoje miasto wymaga natychmiastowej interwencji.",
       icon: "https://raw.githubusercontent.com/Teslov-Mikhail/IkariamNotifier/master/general.png"
-    }
+    };
 
     function checkForAlerts() {
       if ( $("#js_GlobalMenu_military").hasClass("normalalert") ) {
